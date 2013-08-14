@@ -3,11 +3,21 @@ layout: default
 title: Wilson Qin
 ---
 
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+<div class="row">
+  <div class="home-wrapper large-12 columns">
+    <div class="home-img large-8 columns">
+      <div class="row">
+        <img class="large-12 columns" src="http://pcdn.500px.net/37697430/1aef615a74c0f803c93fe73cc95d6fe004fa7035/4.jpg" />
+      </div>
+    </div>
+
+    <div id="home">
+      <h1>Blog Posts</h1>
+      <ul class="posts">
+        {% for post in site.posts %}
+          <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
 </div>

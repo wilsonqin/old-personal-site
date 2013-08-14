@@ -58,8 +58,7 @@ ul.posts span {
 .site {
   font-size: 115%;
   text-align: justify;
-  width: 42em;
-  margin: 3em auto 2em;
+  margin: 0 auto 0;
   line-height: 1.5em;
 }
 
@@ -100,11 +99,13 @@ ul.posts span {
   border-top: 4px solid #eee;
   margin-top: 2em;
   overflow: hidden;
+  margin-left:2%;
+  margin-right:2%;
+  width:96%;
 }
 
 .site .footer .contact {
   float: left;
-  margin-right: 3em;
 }
 
 .site .footer .contact a {

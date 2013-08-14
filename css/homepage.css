@@ -1,0 +1,41 @@
+.home-img{
+  width:auto;
+  height:auto;
+}
+
+#home{
+  opacity:1.00;
+  border:2px solid #F8F8F8;
+  margin-left:0.8em;
+  margin-right:0.8em;
+}
+
+/* FOOTER */
+.contact-thumb{
+  height:50px;
+  width:50px;
+}
+
+
+/* POSTS */ /* TODO REMOVE */
+.post-container{
+  margin-left:2%;
+  margin-right:2%;
+  width:96%;
+}
+
+
+/*** PHOTOS ***/
+.photos-container a{
+  float:left;
+}
+
+.photos-mid-thumbs img{
+  height:201px;
+  width:201px;
+}
+
+.photos-small-thumbs img{
+  height:134px;
+  width:134px;
+}
