@@ -19,5 +19,5 @@ This summer I had the inspiring opportunity to take part in the rapid metamorpho
 </p>
 <br />
 <p>
- <i>This article was also cross published in the Harvard College Venture Partners Blog.</i>
+ <i>A version of this article was also <a href="http://harvardventures.org/2013/08/14/wilsons-summer-internship-learn-from-moving-fast/">cross published in the Harvard College Venture Partners Blog</a>.</i>
 </p>
